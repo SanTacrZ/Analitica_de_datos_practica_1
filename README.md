@@ -2,7 +2,7 @@
 
 ## 1. Descripción del proyecto
 Este repositorio contiene un flujo completo de **preparación de datos** para un caso de empleados, orientado a construir una base limpia y transformada para modelos de analítica predictiva (incluyendo clasificación de fuga).
-
+s
 ## 2. Objetivo
 Preparar los datos de empleados mediante un proceso estructurado de:
 - Integración de fuentes.
